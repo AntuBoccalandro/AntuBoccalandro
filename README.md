@@ -6,7 +6,7 @@ Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías
 
 <a name="learning-now"></a>
 
-[<img src=" 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
