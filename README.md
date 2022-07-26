@@ -1,10 +1,10 @@
-# Bonjour ! 🥖
+# Bienvenido ! 🥖
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías y cursos de diversos temas, tecnologías y herramientas. 🥐
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-## 🛠  Technologies and tools
+## 🛠  Tecnologías y herramientas
 
 <a name="learning-now"></a>
 
@@ -34,13 +34,13 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  ¿Qué estoy aprendiendo?
 
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
-## 👾  What I am interested in learning at some point
+## 👾  Que sigue por aprender...
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
@@ -58,7 +58,7 @@ My name is Valentin Briand. I am a freelance frontend developer living near Pari
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 
-## 🔍  Where to find me
+## 🔍  Puedes encontrarme en mis redes!
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
