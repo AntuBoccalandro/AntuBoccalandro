@@ -49,3 +49,7 @@ Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías
 &nbsp;
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCBYbGS810wBAI7QOtw0yk_A)
 &nbsp;
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
