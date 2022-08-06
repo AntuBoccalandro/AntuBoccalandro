@@ -1,6 +1,6 @@
-# Bienvenido ! 🥖
+# Bienvenido ! 
 
-Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías y cursos de diversos temas, tecnologías y herramientas. 🥐
+Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías y cursos de diversos temas, tecnologías y herramientas. 
 
 ## 📖 Skills
 
@@ -49,13 +49,3 @@ Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías
 &nbsp;
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCBYbGS810wBAI7QOtw0yk_A)
 &nbsp;
-
-## 💻  My courses
-
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://stackoverflow.com/users/10927329/valentin-briand)
-
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://www.linkedin.com/in/valentinbriand42)
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
