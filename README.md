@@ -1,39 +1,43 @@
 # Bienvenido ! 
 
-Mi nombre es Antú. Estoy estudiando programación. Encuentra tutoriales, guías y cursos de diversos temas, tecnologías y herramientas. 
+Mi nombre es Antú, estudiante de secundaria. Todo lo que aprendo lo voy apuntando en este github para que no se me olvide. Mis apuntes son a modo de guía por lo que si quieres aprender alguna de estas tecnologías puedes ver mis diferentes repositorios.
 
-## 📖 Skills
+## 📖 Habilidades
 
-<a name="learning-now"></a>
+<a href="https://github.com/AntuBoccalandro/Python">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" heigth="50"/>
+</a>
 
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
+<a href="https://github.com/AntuBoccalandro/HTML">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth="50"/>
+</a>
 
-<a name="learning-next"></a>
+<a href="https://github.com/AntuBoccalandro/Arduino">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" heigth="50"/>
+</a>
 
-## 💾 Tools
+<a href="#">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" heigth="50"/>
+</a>
 
-[<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
-&nbsp;
+## 💾 Herramientas
 
-## 👾  Continue learingn ...
+<a href="#">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" heigth="50"/>
+</a>
 
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
+<a href="#">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" heigth="50"/>
+</a>
 
-## 🔍  Contact me
+<a href="https://github.com/AntuBoccalandro/Git">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50"/>
+</a>
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />]()
-&nbsp;
+<a href="https://github.com/AntuBoccalandro/github">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" heigth="50"/>
+</a>
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+<a href="https://github.com/AntuBoccalandro/github">
+  <img src="https://i.ibb.co/yBTkHjB/markdown.png" width="50" heigth="50"/>
+</a>
