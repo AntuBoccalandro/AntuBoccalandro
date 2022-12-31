@@ -1,4 +1,4 @@
-# Bienvenido ! 
+# 👋 Bienvenido ! 
 
 Mi nombre es Antú, estudiante de secundaria. Todo lo que aprendo lo voy apuntando en este github para que no se me olvide. Mis apuntes son a modo de guía por lo que si quieres aprender alguna de estas tecnologías puedes ver mis diferentes repositorios.
 
