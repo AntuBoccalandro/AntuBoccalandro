@@ -34,10 +34,10 @@ Mi nombre es Antú, estudiante de secundaria. Todo lo que aprendo lo voy apuntan
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50"/>
 </a>
 
-<a href="https://github.com/AntuBoccalandro/github">
+<a href="https://github.com/AntuBoccalandro/Github">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" heigth="50"/>
 </a>
 
-<a href="https://github.com/AntuBoccalandro/github">
+<a href="https://github.com/AntuBoccalandro/Markdown">
   <img src="https://i.ibb.co/yBTkHjB/markdown.png" width="50" heigth="50"/>
 </a>
