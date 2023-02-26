@@ -1,43 +1,38 @@
-# 👋 Bienvenido ! 
+![](https://i.ibb.co/NSptHQ7/Montaje-GIF.gif)
 
-Mi nombre es Antú, estudiante de secundaria. Todo lo que aprendo lo voy apuntando en este github para que no se me olvide. Mis apuntes son a modo de guía por lo que si quieres aprender alguna de estas tecnologías puedes ver mis diferentes repositorios.
+# Hi, I'm Antú! 👋
 
-## 📖 Habilidades
 
-<a href="https://github.com/AntuBoccalandro/Python">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" heigth="50"/>
-</a>
+## 🚀 About Me
+I'm Antú. I born in Mendoza, Argentina. I'm secondarie student *"On the way to full stack developer"*.
 
-<a href="https://github.com/AntuBoccalandro/HTML">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth="50"/>
-</a>
+## 💾 Skills
 
-<a href="https://github.com/AntuBoccalandro/Arduino">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" heigth="50"/>
-</a>
+### Front-end
 
-<a href="#">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" heigth="50"/>
-</a>
+![](https://img.shields.io/badge/HTML-d84924?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-146cad?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💾 Herramientas
 
-<a href="#">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" heigth="50"/>
-</a>
+### Back-end
 
-<a href="#">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" heigth="50"/>
-</a>
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<a href="https://github.com/AntuBoccalandro/Git">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50"/>
-</a>
 
-<a href="https://github.com/AntuBoccalandro/Github">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" heigth="50"/>
-</a>
+### Databases
 
-<a href="https://github.com/AntuBoccalandro/Markdown">
-  <img src="https://i.ibb.co/yBTkHjB/markdown.png" width="50" heigth="50"/>
-</a>
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black)
+![](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
