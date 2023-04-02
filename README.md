@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm Antú. I born in Mendoza, Argentina. I'm secondarie student *"On the way to full stack developer"*.
+I'm Antú. I born in Mendoza, Argentina. I'm informatic secondarie student. In my free time I study programming and I create guides of learned topics for help other people and increment my knowledge.
 
 ## 💾 Skills
 
